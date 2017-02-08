@@ -12,6 +12,7 @@ namespace PlatinumCarSalesTesting
         {
             //create instance of the class we want to create
             clsCar ACar = new clsCar();
+
             //test to see it exists
             Assert.IsNotNull(ACar);
         }
