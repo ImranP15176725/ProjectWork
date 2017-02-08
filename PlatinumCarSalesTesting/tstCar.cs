@@ -192,7 +192,7 @@ namespace PlatinumCarSalesTesting
         ///// methods
 
         [TestMethod]
-        public void ValidMethodOK()
+        public void ValidMethodOK()/// not finished
         {
             //create instance of the class we want to create
             clsCar ACar = new clsCar();
